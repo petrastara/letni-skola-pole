@@ -11,3 +11,5 @@
 // - pridat na zacatek
 // - odebrat ze zacatku
 // - vrátit kousek pole od-do
+
+https://github.com/petrastara/letni-skola-pole
